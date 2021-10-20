@@ -1,0 +1,5 @@
+#+TITLE: Coding the Crack Interview?
+
+A set of notes and exercises while I work through Cracking the Coding Interview. Done in a literate programming style, thanks to Emacs Org-Mode.
+
+Everything relevant is in =ctci.org=.
